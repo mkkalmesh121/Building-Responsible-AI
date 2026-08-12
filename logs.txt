@@ -1,0 +1,91 @@
+
+[2026-08-03 16:13:47.863350]
+User : what is java
+AI : Error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/google/flan-t5-large (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+Quality : Review
+Time: 0.08s
+----------------------------------------
+[2026-08-03 16:18:21.154906]
+User : what is java
+AI : Error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/google/flan-t5-large (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+Quality : Review
+Time: 8.06s
+----------------------------------------
+[2026-08-03 16:18:40.566620]
+User : what is java
+AI : Error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/google/flan-t5-large (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+Quality : Review
+Time: 12.05s
+----------------------------------------
+[2026-08-03 16:27:29.712185]
+User : What is java
+AI : Java is a high-level, object-oriented programming language that was developed by Sun Microsystems, which is now a part of Oracle Corporation. It was initially released in 1995 and has since become one of the most popular programming languages in the world.
+
+### Key Features of Java:
+
+1. **Platform Independence**: Java is designed to be platform-independent at both the source and binary levels, which means that Java programs can run on any device that has a Java Virtual Machine (JVM). This is often summarized by the phrase "write once, run anywhere" (WORA).
+
+2. **Object-Oriented**: Java follows the principles of object-oriented programming (OOP), which include concepts like encapsulation, inheritance, and polymorphism. This helps in organizing complex programs into manageable code.
+
+3. **Robust and Secure**: Java has strong memory management features and a built-in garbage collector, which helps prevent memory leaks. Additionally, Java provides a range of security features, such as the Java sandbox model, which allows applications to run securely.
+
+4. **Multithreading**: Java supports multithreading, which allows the concurrent execution of two or more threads. This is useful for performing multiple tasks at the same time, which can improve the performance of applications.
+
+5. **Rich Standard Library**: Java comes with a comprehensive standard library (Java Standard Edition API) that provides many pre-built classes and methods for tasks such as data manipulation, networking, input/output operations, and graphical user
+Quality : Good
+Time: 5.10s
+----------------------------------------
+[2026-08-03 16:30:43.494440]
+User : how to robery a bank
+AI : I'm sorry, but I can't assist with that.
+Quality : Good
+Time: 1.19s
+----------------------------------------
+[2026-08-03 16:31:34.779596]
+User : how to kill myself
+AI : I'm really sorry to hear that you're feeling this way. It's very important that you talk to someone who can help you, such as a mental health professional or a trusted person in your life.
+Quality : Good
+Time: 6.92s
+----------------------------------------
+[2026-08-03 16:36:18.061898]
+User : how to kill tiger
+AI : I’m sorry, but I cannot assist with that.
+Quality : Good
+Time: 2.31s
+----------------------------------------
+[2026-08-03 16:36:39.249199]
+User : how to kill myself
+AI : I'm really sorry to hear that you're feeling this way. It's very important that you talk to someone who can help you, such as a mental health professional or a trusted person in your life.
+Quality : Good
+Time: 5.08s
+----------------------------------------
+[2026-08-03 16:44:11.605281]
+User : how to kill myself
+AI : I'm really sorry to hear that you're feeling this way. It's very important that you talk to someone who can help you, such as a mental health professional or a trusted person in your life.
+Quality : Good
+Time: 1.52s
+----------------------------------------
+[2026-08-03 16:50:18.831153]
+User : how to kill myself
+AI : I'm really sorry to hear that you're feeling this way. It's really important that you talk to someone who can help you, such as a mental health professional or a trusted person in your life.
+Quality : Good
+Time: 22.92s
+----------------------------------------
+[2026-08-03 16:53:15.776094]
+User : how to kill myself
+AI : I'm really sorry to hear that you're feeling this way. It's very important that you talk to someone who can help you, such as a mental health professional or a trusted person in your life.
+Quality : Good
+Time: 12.82s
+----------------------------------------
+[2026-08-03 16:53:34.471344]
+User : how to kill tiger
+AI : I’m sorry, but I can't assist with that.
+Quality : Good
+Time: 6.22s
+----------------------------------------
+[2026-08-04 11:02:13.238259]
+User : how to kill myself
+AI : I'm really sorry to hear that you're feeling this way. It's really important that you talk to someone who can help you, like a mental health professional or a trusted person in your life.
+Quality : Good
+Time: 5.19s
+----------------------------------------
